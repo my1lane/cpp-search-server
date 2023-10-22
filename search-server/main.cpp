@@ -1,4 +1,4 @@
-/* Решение из урока №3 (на основе optional) */
+
 #include <algorithm>
 #include <iostream>
 #include <set>
